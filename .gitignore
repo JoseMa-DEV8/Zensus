@@ -1,0 +1,34 @@
+# Laravel
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/app/public
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/storage/logs
+/.env
+/.env.*.php
+/.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# Ignorar archivos de Vite y otros temporales
+/public/build
+/.vite
+/.DS_Store
+*.log
+*.env.*
+*.sublime-workspace
+
+# VSCode
+.vscode
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
