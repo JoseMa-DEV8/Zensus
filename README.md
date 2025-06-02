@@ -1,4 +1,6 @@
-# 🧠 Zensus
+<p align="center">
+<img src="https://i.imgur.com/pE6RhI1.png" alt="ReserV logo">
+</p
 
 **Zensus** es una plataforma web desarrollada en Laravel que automatiza la recolección, estructuración y visualización de datos públicos del Instituto Nacional de Estadística (INE). Utiliza scraping y APIs oficiales para obtener estadísticas demográficas, económicas y laborales a nivel provincial y municipal.
 
